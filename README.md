@@ -1,2 +1,2 @@
 # Paragraph Generartor
-## Hosted [Link](https://paragraph-generator-react.vercel.app/)
+## Hosted [Link]https://paragraphgeneratorreact.netlify.app/
